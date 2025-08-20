@@ -69,7 +69,7 @@ patch --> http://localhost:2025/device/:id
 4. Delete the device by using the device id 
 delete --> http://localhost:2025/device/:id
 
-6.To update the last activity time 
+5.To update the last activity time 
 post --> http://localhost:2025/device/:id/heartbeat 
 
 
